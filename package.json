@@ -1,0 +1,25 @@
+{
+  "name": "d4rkdev-footer",
+  "version": "0.1.0",
+  "description": "This Package allows for a beautiful footer to be generated for JS applications with an updated year, name, and social media links.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D4rkdev1987/d4rkdev-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Benjamin Nicklaus <marineepo@gmail.com> (https://www.npmjs.com/~d4rkdev1987)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/D4rkdev1987/d4rkdev-footer/issues"
+  },
+  "homepage": "https://github.com/D4rkdev1987/d4rkdev-footer#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
